@@ -24,7 +24,7 @@ Para netcore, esta corre en linux:
 $ chmod 333 ./creditos-backend   
 $ ./creditos-backend 
 ```
-El codigo esta en una carpeta aparte llamada: "source-netcore"
+El codigo esta en una carpeta aparte llamada: "creditos-backend"
 
 
 En Python solo se debe instalar los requerimientos 

@@ -29,7 +29,7 @@ Next.js Frontend:
 https://lilab-next-repo-git-master.renzott.vercel.app/
 
 Credenciales
-mail: maria@credito.com
+mail: maria@credito.com,
 password: patito
 
 ### Installation

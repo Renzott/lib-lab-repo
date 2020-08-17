@@ -15,6 +15,23 @@ Se esta usando Next.js en el Frontend.
 NetCore para el Backend
 Y para finalizar, Flask como una API fictica
 
+### Enlaces:
+
+Se recomienda visitar las urls en este orden, heroku deactiva las aplicaciones a los 30 min;
+
+NetCore:
+https://lilab-backend-netcore.herokuapp.com/ (si te aparece un mensaje de "status code 404", esta bien, a cierto servidor se le olvido poner un mensaje al inicio)
+
+Flask-Python:
+https://lilab-backend-python.herokuapp.com/
+
+Next.js Frontend:
+https://lilab-next-repo-git-master.renzott.vercel.app/
+
+Credenciales
+mail: maria@credito.com
+password: patito
+
 ### Installation
 
 En cada carpeta estara las aplicaciones separadas
